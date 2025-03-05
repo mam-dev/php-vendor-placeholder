@@ -1,0 +1,11 @@
+{
+    "name": "mam-dev/php-vendor-placeholder",
+    "description": "Vendor placeholder project for PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MamDev\\PhpVendorPlaceholder\\": "src/"
+        }
+    },
+    "require": {}
+}
